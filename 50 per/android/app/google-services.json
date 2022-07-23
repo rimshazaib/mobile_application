@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372483577423",
+    "project_id": "expirywiz",
+    "storage_bucket": "expirywiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372483577423:android:43725a28e0253e3a1dfc3a",
+        "android_client_info": {
+          "package_name": "com.example.new_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372483577423-3qakofprqrmrhcg7advcar0rksvripdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCrAWDso2iifwiybxi9t5dfS8WjhtF6FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372483577423-3qakofprqrmrhcg7advcar0rksvripdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
